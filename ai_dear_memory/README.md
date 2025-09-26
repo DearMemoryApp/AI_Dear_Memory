@@ -17,7 +17,7 @@ Follow these steps to get started with the Dear Memory application:
 
 1. Clone the repository:
    ```bash
-   git clone {https://github.com/DearMemoryApp/AI_Dear_Memory.git}
+   git clone {https://github.com/DearMemoryApp/DearMemoryApp-AI-API.git}
    cd ai_dear_memory
    ```
 
