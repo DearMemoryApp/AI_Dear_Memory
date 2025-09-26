@@ -17,15 +17,15 @@ Follow these steps to get started with the Dear Memory application:
 
 1. Clone the repository:
    ```bash
-   git clone {https://github.com/dear-memory.git}
-   cd dear_memory
+   git clone {https://github.com/DearMemoryApp/AI_Dear_Memory.git}
+   cd ai_dear_memory
    ```
 
 2. Create a virtual environment:
    ```bash
-   python -m venv env
-   source env/bin/activate   # For Linux/Mac
-   env\Scripts\activate      # For Windows
+   python -m venv .venv
+   source .venv/bin/activate   # For Linux/Mac
+   .venv\Scripts\activate      # For Windows
    ```
 
 3. Install the required dependencies:
